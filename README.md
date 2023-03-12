@@ -5,7 +5,7 @@
 
 # 使用軟體
 
-+  [leetcode]([https://linixian.github.io/HW1/mypage/](https://leetcode.com/problemset/all/))
++  [leetcode](https://leetcode.com/problemset/all/)
 
 # 📖作業連結
 
