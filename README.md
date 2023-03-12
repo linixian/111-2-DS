@@ -9,7 +9,7 @@
 
 +  [leetcode](https://leetcode.com/problemset/all/)
 
-# 課程錄影
+# 📷課程錄影
 
 + [Week1 introduction](https://www.youtube.com/watch?v=QrDBThlCF-c)
 + [Week3 leetcode75](https://www.youtube.com/watch?v=UwumuTsjgsw)
