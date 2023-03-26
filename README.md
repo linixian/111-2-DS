@@ -17,3 +17,4 @@
 # 📖作業連結
 
 +  [作業一](https://youtu.be/Gppmc_Im2MA)
++  [作業二](https://youtu.be/ICO6rNeUgwY)
